@@ -1,0 +1,11 @@
+title: Jekyll Admin Demo
+email: d@derekadair.com.com
+description: Functional jekyll admin
+baseurl: ''
+url: 'http://jekyll.sandbox.derekadair.com'
+twitter_username: derleek
+github_username: derek-adair
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-admin
